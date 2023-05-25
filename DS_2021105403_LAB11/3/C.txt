@@ -1,0 +1,5 @@
+O(Enqueue) : O(log N)
+O(Dequeue) : O(log N)
+
+O(Enqueue)_sortedlist = O(N)
+O(Dequeue)_sortedlist = O(1)

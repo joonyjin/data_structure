@@ -1,0 +1,2 @@
+O(Push) : O(N)
+O(Pop) : O(N)
